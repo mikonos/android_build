@@ -1,2 +1,2 @@
-android_build
+Android build using ant
 =============
